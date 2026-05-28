@@ -9,9 +9,9 @@ import { Button } from "@/components/ui/button";
 
 const navItems = [
   { title: "Overview", icon: LayoutDashboard, href: "/dashboard" },
-  { title: "Conversations", icon: MessageSquare, href: "/dashboard/conversations" },
-  { title: "Leads", icon: Users, href: "/dashboard/leads" },
-  { title: "Bookings", icon: Calendar, href: "/dashboard/bookings" },
+  // { title: "Conversations", icon: MessageSquare, href: "/dashboard/conversations" },
+  // { title: "Leads", icon: Users, href: "/dashboard/leads" },
+  // { title: "Bookings", icon: Calendar, href: "/dashboard/bookings" },
 ];
 
 export function DashboardSidebar() {
